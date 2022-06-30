@@ -4,8 +4,9 @@
 <h1 align="center">Hi 👋, I'm Sasidharan</h1>
 <h3 align="center" >A passionate Coder, Web developer</h3>
 
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=sasidharan10&label=Profile%20views&color=0e75b6&style=flat" alt="sasidharan10" /> </p> -->
-<!-- <a href="https://github.com/kaiser-x?tab=followers" dispay="inline"><img src="https://img.shields.io/github/followers/kaiser-x?label=Followers&style=social" alt="GitHub Badge"></a> -->
+<p align="center" dispay="inline"> <img src="https://komarev.com/ghpvc/?username=sasidharan10&label=Profile%20views&color=0e75b6&style=flat" alt="sasidharan10" /> 
+<a href="https://github.com/sasidharan10?tab=followers" dispay="inline"><img src="https://img.shields.io/github/followers/sasidharan10?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
 &nbsp;
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sasidharan10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sasidharan10" />
@@ -18,15 +19,18 @@
 
 ## 🙋‍♂️ Wanna Know About me??
 
+- 📚 I'm a BE CSE Grad
+
+- 👨‍💻 Looking for Software Engineer roles
+
 - 🌱 I’m currently solving **DSA problems**
 
 - 👯 I’m looking to collaborate on **DSA**
 
-- 👨‍💻 All of my projects are available at here
+- 💻 All of my projects are available in my [project](https://github.com/sasidharan10/Projects) repository.
 
 - 📫 How to reach me **ksasidharan98@gmail.com**
 
-- ⚡ Fun fact **I make beats.**
   
 </div>
 &nbsp;
@@ -50,8 +54,8 @@
 </p>
 <p align="center"><img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=sasidharan10&theme=tokyonight" alt="sasidharan10" /></p>
 
-<!-- <div align="center">
+<div align="center">
   
 ![Snake animation](https://github.com/sasidharan10/sasidharan10/blob/output/github-contribution-grid-snake.svg)
   
-</div> -->
+</div>
