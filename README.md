@@ -1,12 +1,13 @@
-[![MasterHead](https://as2.ftcdn.net/v2/jpg/01/36/86/21/1000_F_136862119_QtJT4iRW93v8rSs2X30htJEyDN5tcL2s.jpg)](https://sasidharan10.io)
+[![MasterHead](./background1.jpeg)](https://sasidharan10.io)
+<!-- <img align="center" alt="Coding" src="./background1.jpeg"> -->
 
 <h1 align="center">Hi 👋, I'm Sasidharan</h1>
 <h3 align="center">A passionate Coder, Web developer</h3>
-(img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasidharan10&label=Profile%20views&color=0e75b6&style=flat" alt="sasidharan10" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasidharan10" alt="sasidharan10" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="./animateed-gif.gif">
 
 - 🌱 I’m currently solving **DSA problems**
 
