@@ -55,6 +55,6 @@
 
 <div align="center">
   
-![snake gif](https://github.com/sasidharan10/sasidharan10/blob/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake-dark.svg)
 
 </div>
