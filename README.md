@@ -26,7 +26,7 @@
 
 - 👯 I’m looking to collaborate on **DSA**
 
-- 💻 My projects: [CodingPanda](https://github.com/sasidharan10/CodingPanda) and [Covid19](https://github.com/sasidharan10/covid19).
+- 💻 My projects: [CodingPanda](https://codingpanda-r7xt.onrender.com) and [Covid19](https://covid19-u5rn.onrender.com).
 
 - 📫 How to reach me **ksasidharan98@gmail.com**
 
