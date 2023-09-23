@@ -2,7 +2,7 @@
 <img align="center" width="100%" alt="Coding" src="./background1.jpeg">
 
 <h1 align="center">Hi 👋, I'm Sasidharan</h1>
-<h3 align="center" >A passionate and noob coder</h3>
+<h3 align="center" >A passionate coder</h3>
 
 <p align="center" dispay="inline"> <img src="https://komarev.com/ghpvc/?username=sasidharan10&label=Profile%20views&color=0e75b6&style=flat" alt="sasidharan10" /> 
 <a href="https://github.com/sasidharan10?tab=followers" dispay="inline"><img src="https://img.shields.io/github/followers/sasidharan10?label=Followers&style=social" alt="GitHub Badge"></a>
