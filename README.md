@@ -18,13 +18,11 @@
 
 ## 🙋‍♂️ Wanna Know About me??
 
-- 📚 I'm a BE CSE Grad
+- 📚 Back-end Engineer with 1+ years of experience, specialising in technologies like Java, Spring Boot, Hibernate, REST API, Spring Data JPA, MongoDB, MySQL and AWS.
 
-- 👨‍💻 Looking for Software Engineer roles
+- 👨‍💻 Looking for Software Engineer roles.
 
 - 🌱 I’m currently solving **DSA problems**
-
-- 👯 I’m looking to collaborate on **DSA**
 
 - 💻 My projects: [FileShare](https://github.com/sasidharan10/fileshare) and [Coding Panda](https://github.com/sasidharan10/CodingPanda).
 
